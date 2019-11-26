@@ -86,4 +86,6 @@ const Home = () => (
   </div>
 )
 
+console.log('Im gonna kill my self 666');
+
 export default Home
