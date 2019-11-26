@@ -7,6 +7,7 @@ const Home = () => (
     <Head>
       <title>Home</title>
       <link rel='icon' href='/favicon.ico' />
+      <meta name="google-site-verification" content="mu5tMUKj7K4XsuB24-IPXMFx2XdImlanzMAC5SAY71o" />
     </Head>
 
     <Nav />
