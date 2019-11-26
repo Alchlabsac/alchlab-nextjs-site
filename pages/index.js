@@ -32,7 +32,7 @@ const Home = () => (
         >
           <h3>Examples &rarr;</h3>
           <p>Find other example boilerplates on the Next.js GitHub.</p>
-          <h4>I really cant understand this shit</p>
+          <h4>I really cant understand this shit</h4>
         </a>
       </div>
     </div>
