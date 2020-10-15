@@ -1,19 +1,22 @@
-import React from 'react'
+import React from 'react';
 
 const ComingSoon = () => (
-    <div className="main">
+  <div className="main">
     <span>
-        <img src="cs.png" className="main__img" alt="Icono 1"></img>
+      <img src="cs.png" className="main__img" alt="Icono 1" />
     </span>
+
     <style jsx>{`
-      .main__img {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 700px;
+      .main {
+        &__img {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          width: 700px;
+        }
       }
     `}</style>
-    </div>
+  </div>
 );
 
 export default ComingSoon;
